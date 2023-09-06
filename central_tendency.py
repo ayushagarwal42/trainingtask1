@@ -2,7 +2,8 @@ import pandas as pd
 # import warnings
 # warnings.filterwarnings("ignore")
 # Load the dataset using pandas
-df = pd.read_csv('C:\\Users\\This PC\\Desktop\\training\\Mall_Customers.csv')
+df = pd.read_csv('C:\\Users\\This PC\\Desktop\\training\\trainingtask1\\Mall_Customers.csv')
+
 
 # Function to cal the mode
 def cal_mode(data):
